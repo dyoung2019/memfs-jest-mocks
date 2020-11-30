@@ -1,6 +1,7 @@
 {
   "name": "memfs-test",
   "version": "1.0.0",
+  "repository": "https://github.com/dyoung2019/memfs-jest-mocks",
   "description": "",
   "main": "index.js",
   "scripts": {
