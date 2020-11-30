@@ -1,0 +1,18 @@
+{
+  "name": "memfs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memfs": "^3.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
